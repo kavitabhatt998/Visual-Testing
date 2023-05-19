@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Update your postal code_postalcode-in_fbfdff</name>
+   <tag></tag>
+   <elementGuidId>e6db87ef-8da3-4ed5-bf77-4bc941293e69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.postalcode-input.uppercase.placeholder-gray-500.text-gray-800.w-full.text-sm.bg-gray-100.border.border-gray-300.rounded.ship-postal-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b199a789-07a4-4983-b996-373210fadbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Postal Code</value>
+      <webElementGuid>ca314816-8b80-4482-afb6-f974eb94cd43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5b4cfe14-14c9-4e8a-a125-2af8f8a7b386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>postalcode-input uppercase placeholder-gray-500 text-gray-800 w-full text-sm bg-gray-100 border border-gray-300 rounded ship-postal-input</value>
+      <webElementGuid>b40b7a9d-708a-4ed4-a34f-1eafb3428bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-location-view-popup&quot;)/rec-location-popup[1]/div[@class=&quot;el-dialog__wrapper&quot;]/div[@class=&quot;el-dialog&quot;]/div[@class=&quot;el-dialog__body&quot;]/div[@class=&quot;flex flex-col space-y-3&quot;]/form[@class=&quot;grid grid-cols-3 lg:grid-cols-2 xl:grid-cols-3 gap-2 w-full&quot;]/div[@class=&quot;relative zip-input col-span-2 lg:col-span-1 xl:col-span-2&quot;]/input[@class=&quot;postalcode-input uppercase placeholder-gray-500 text-gray-800 w-full text-sm bg-gray-100 border border-gray-300 rounded ship-postal-input&quot;]</value>
+      <webElementGuid>9beab0bc-1cf2-4199-a7da-0e1ecbe292bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>38325989-b5df-411a-b97e-7d4d3301d9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-location-view-popup']/rec-location-popup/div/div/div[2]/div[2]/form/div/input</value>
+      <webElementGuid>56a09c42-72e1-4220-9eaf-c48f86172a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>daf29bef-f08d-4712-bb6a-92e2b8110a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>ae8f747b-1f85-4440-9677-100a40d8e7f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

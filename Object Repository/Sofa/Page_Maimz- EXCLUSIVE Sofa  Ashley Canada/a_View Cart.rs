@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Cart</name>
+   <tag></tag>
+   <elementGuidId>367ac398-8a00-4d9f-b7e8-c8e041f387a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.theme-btn.contains-transaction</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-off-canvas-mini-cart']/rec-off-cart/div/div/section/div/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>915a2cc8-c1f4-430f-a412-f529e45e4c92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cart</value>
+      <webElementGuid>283685bf-6f32-42aa-b3c7-d7a955fd8aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>theme-btn contains-transaction</value>
+      <webElementGuid>afce712b-e88b-4777-b7b1-11f02b4c5b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View Cart</value>
+      <webElementGuid>d70933e9-a676-4cfc-82f1-91bcd32acf02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-off-canvas-mini-cart&quot;)/rec-off-cart[1]/div[@class=&quot;el-drawer__wrapper z-50 rec-drawer fixed inset-0 overflow-hidden pointer-events-auto&quot;]/div[@class=&quot;absolute inset-0 overflow-hidden&quot;]/section[@class=&quot;absolute inset-y-0 right-0 max-w-full flex pl-0&quot;]/div[@class=&quot;relative w-screen max-w-lg&quot;]/div[@class=&quot;h-full flex flex-col bg-white shadow-xl overflow-y-scroll&quot;]/div[1]/div[@class=&quot;mini-cart flex flex-col&quot;]/div[@class=&quot;mini-cart__header bg-gray-100 z-10 sticky top-0 p-4 md:p-4 w-full border-b border-gray-200 space-y-4&quot;]/a[@class=&quot;theme-btn contains-transaction&quot;]</value>
+      <webElementGuid>0fed4abd-9298-4975-8883-6ba46ab1d371</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-off-canvas-mini-cart']/rec-off-cart/div/div/section/div/div[2]/div/div/div/a</value>
+      <webElementGuid>baf5d1b6-014f-43d0-ab86-bddf7a44b0b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$2,519.98'])[1]/following::a[1]</value>
+      <webElementGuid>8bec6d97-434f-43d8-ae7f-7f1f9ae4a2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal:'])[1]/following::a[1]</value>
+      <webElementGuid>93377f15-ce6d-4120-8284-574d4600ee26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maimz- EXCLUSIVE Sofa'])[1]/preceding::a[2]</value>
+      <webElementGuid>85626d36-2378-45f2-98e6-70279d08857c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/cart')]</value>
+      <webElementGuid>dc7481c1-7fea-4310-99f0-6ac03ede2b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>09c82a05-dce8-4bc0-88f5-e60490017bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cart' and (text() = ' View Cart' or . = ' View Cart')]</value>
+      <webElementGuid>54200970-35fe-40c4-b7f1-1f24ee57201a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

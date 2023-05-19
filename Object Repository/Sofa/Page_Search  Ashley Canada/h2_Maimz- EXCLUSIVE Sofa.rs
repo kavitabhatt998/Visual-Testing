@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Maimz- EXCLUSIVE Sofa</name>
+   <tag></tag>
+   <elementGuidId>cb62fb74-3d01-488d-9391-78aec82cbfe5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-search-main']/rec-search-results/div/div[5]/div[2]/div[2]/div/div/ol/li/div/ul/li[4]/a/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>6e1ede9e-8c7c-4670-977f-715809560f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maimz- EXCLUSIVE Sofa</value>
+      <webElementGuid>9a0492a5-8a02-4ef5-85ba-3aff961c8342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-search-main&quot;)/rec-search-results[1]/div[@class=&quot;ais-InstantSearch&quot;]/div[@class=&quot;parent-container&quot;]/div[@class=&quot;rightContainer&quot;]/div[@class=&quot;ais-StateResults&quot;]/div[1]/div[@class=&quot;ais-Hits&quot;]/ol[@class=&quot;ais-Hits-list&quot;]/li[@class=&quot;ais-Hits-item&quot;]/div[1]/ul[1]/li[4]/a[@class=&quot;customHits-item&quot;]/h2[1]</value>
+      <webElementGuid>bc8c117e-db75-4172-9f0f-b7866943f62e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-search-main']/rec-search-results/div/div[5]/div[2]/div[2]/div/div/ol/li/div/ul/li[4]/a/h2</value>
+      <webElementGuid>c611d0cb-077b-41ed-b466-8b5742b388d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Searchable'])[1]/following::h2[1]</value>
+      <webElementGuid>58c65c6f-056a-47f7-9bf9-afc4c4f6d651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='customizable'])[1]/following::h2[1]</value>
+      <webElementGuid>833e2c6f-6906-4b87-9ddc-dd367e0eb867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='by Ashley'])[1]/preceding::h2[1]</value>
+      <webElementGuid>855bfe3e-d977-43eb-8f83-7a47e0e97fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Maimz- EXCLUSIVE Sofa']/parent::*</value>
+      <webElementGuid>fbb9dee5-3bdc-49d4-89e1-498dec6c027e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>1ee0f202-a000-4ba5-93b4-0baedf777317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Maimz- EXCLUSIVE Sofa' or . = 'Maimz- EXCLUSIVE Sofa')]</value>
+      <webElementGuid>aac3f03d-7e25-4dd7-91c5-9287e50fba64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

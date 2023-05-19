@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_chevron-down</name>
+   <tag></tag>
+   <elementGuidId>4c709ddb-7fec-450e-9808-bc2cd725f4f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-bKYoiv.iOwBRm > i.sc-rbbb40-1.iFnyeo > svg.sc-rbbb40-0.iwHbVQ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pure Veg'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>0c38f477-6814-4634-8afe-2dccac981e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>6a075c56-a9c1-4771-ace4-e8dab2088377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#9C9C9C</value>
+      <webElementGuid>10ec00c0-b85c-4f05-9d0f-d7c3f0386dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>59227ea0-d096-4bc8-9205-a67c134bd936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>5126e06b-634f-421b-aa2e-20856c485678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>40309cea-1810-4075-a8c7-268ddae310ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>icon-svg-title- icon-svg-desc-</value>
+      <webElementGuid>d458928b-5035-4065-b0f2-0e71fe6c7566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2bc3763e-37f0-48f5-8e32-7d90b2ce3d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-rbbb40-0 iwHbVQ</value>
+      <webElementGuid>442fdd8a-4378-4c0c-a52b-6703ebfa1e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>chevron-down</value>
+      <webElementGuid>6b522122-3704-4c39-94f7-ad07bcd11350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fEUNkw gAkuDn&quot;]/div[@class=&quot;sc-bQNBTn hHgLCv&quot;]/div[@class=&quot;sc-1mo3ldo-0 fihUGr&quot;]/div[@class=&quot;sc-lSeQO gLkvUi&quot;]/div[@class=&quot;sc-lmuQER kghnYZ&quot;]/div[@class=&quot;sc-kREsUy TQUaK&quot;]/div[@class=&quot;sc-bKYoiv iOwBRm&quot;]/i[@class=&quot;sc-rbbb40-1 iFnyeo&quot;]/svg[@class=&quot;sc-rbbb40-0 iwHbVQ&quot;]</value>
+      <webElementGuid>54461c0a-2dab-426c-8a09-39e690400432</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pure Veg'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6dc32206-0af7-484d-82da-a7839549526e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspiration for your first order'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>d786430e-c6c9-4e2e-8b3b-8aa150c1e1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'chevron-down' or . = 'chevron-down')]</value>
+      <webElementGuid>d29b3d3b-b2a2-42d7-b4a9-447c1fe6d8d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_filterFiltersRating 4.0Pure VegCuisines_16da1f</name>
+   <tag></tag>
+   <elementGuidId>d9a77169-ccc1-44d6-b4b1-c8eed7d17e63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-lSeQO.gLkvUi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0d4cd98-1eed-40d2-a18d-9e11c42af3f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-lSeQO gLkvUi</value>
+      <webElementGuid>3c458b2b-7343-4def-a7a9-4965bea5b59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>filterFiltersRating: 4.0+Pure VegCuisineschevron-downMore filterschevron-down</value>
+      <webElementGuid>a6236e3f-7e27-403a-93df-018ed4147526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fEUNkw gAkuDn&quot;]/div[@class=&quot;sc-bQNBTn hHgLCv&quot;]/div[@class=&quot;sc-1mo3ldo-0 fihUGr&quot;]/div[@class=&quot;sc-lSeQO gLkvUi&quot;]</value>
+      <webElementGuid>32d76e10-f06f-4480-b19e-6039489cbe67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/div/div</value>
+      <webElementGuid>089c6f2d-4b28-467c-b1ff-8cfddf7bc50a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nightlife'])[1]/following::div[3]</value>
+      <webElementGuid>07686cdf-5afe-4368-8c6a-294bbcae23e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dining Out'])[1]/following::div[8]</value>
+      <webElementGuid>5d5750d8-a518-4b48-b462-af299a96d693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>c167a5ec-11a5-4331-a334-543829337581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'filterFiltersRating: 4.0+Pure VegCuisineschevron-downMore filterschevron-down' or . = 'filterFiltersRating: 4.0+Pure VegCuisineschevron-downMore filterschevron-down')]</value>
+      <webElementGuid>cbf5888d-856c-4769-82f5-9168ab043b03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

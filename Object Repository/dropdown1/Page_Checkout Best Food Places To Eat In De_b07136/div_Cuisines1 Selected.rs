@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cuisines1 Selected</name>
+   <tag></tag>
+   <elementGuidId>dda60c02-28b3-475f-b62c-141f6f49997a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='id-69']/section[2]/article/section/section/section/section/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54636d27-89d5-4d08-84d3-f7ccecd34d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>55ce8b07-c131-48e4-b153-308ff737d8a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>6de4cad2-1086-4389-9a2d-76734f9f59d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-kDhYZr fckOLM</value>
+      <webElementGuid>6f1c8fd5-06c7-4d07-b90c-1a5a52833d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cuisines1 Selected</value>
+      <webElementGuid>f7fc75ce-ac28-4eca-a4ab-f785b55e1f7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;sc-13lc47p-0 hOPtIO&quot;]/div[@class=&quot;sc-re4bd0-6 kmkHCs modalWrapper&quot;]/div[@id=&quot;id-69&quot;]/section[@class=&quot;sc-re4bd0-11 fKQGZb&quot;]/article[@class=&quot;sc-ccLTTT huAiBP&quot;]/section[@class=&quot;sc-fCPvlr lhOusS&quot;]/section[@class=&quot;sc-1dm827j-0 jcZYcp&quot;]/section[@class=&quot;sc-1dm827j-1 dwEHGn&quot;]/section[@class=&quot;sc-1dm827j-4 feiKQi&quot;]/div[@class=&quot;sc-kDhYZr fckOLM&quot;]</value>
+      <webElementGuid>94a1d286-5f4f-4952-ac92-e0509479ddc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='id-69']/section[2]/article/section/section/section/section/div[2]</value>
+      <webElementGuid>37e4ead7-cada-4de4-aef6-fc2382114992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/following::div[3]</value>
+      <webElementGuid>e4defb0b-c654-434d-bb33-c8aa0d0091d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social links'])[1]/following::div[22]</value>
+      <webElementGuid>44c6ad6b-352e-4814-a6d0-3838603f5c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search here'])[1]/preceding::div[7]</value>
+      <webElementGuid>798fbd1a-50ca-4415-bb6a-59b432468ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Great Offers'])[1]/preceding::div[7]</value>
+      <webElementGuid>c83e8097-3dcd-416f-ad36-137059a04320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/section/section/section/div[2]</value>
+      <webElementGuid>58b1b64c-50e5-449c-b560-e6693266c146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cuisines1 Selected' or . = 'Cuisines1 Selected')]</value>
+      <webElementGuid>60e855aa-d3f4-4469-9fce-2ff4779e31f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

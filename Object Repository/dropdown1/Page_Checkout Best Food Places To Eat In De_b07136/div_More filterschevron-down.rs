@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_More filterschevron-down</name>
+   <tag></tag>
+   <elementGuidId>00d1a4c5-495f-4314-b38a-cb7a19a9f592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/div/div/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1bbd8732-4b15-47ac-a8ea-580a9a1e6ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5de8ee93-f90e-4104-a7de-ce8003840860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-kREsUy TQUaK</value>
+      <webElementGuid>642215c4-cb5f-4c87-8d55-8431466f4aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More filterschevron-down</value>
+      <webElementGuid>b9d383de-2c3b-4d5b-95d0-c179b0d3a3b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fEUNkw gAkuDn&quot;]/div[@class=&quot;sc-bQNBTn hHgLCv&quot;]/div[@class=&quot;sc-1mo3ldo-0 fihUGr&quot;]/div[@class=&quot;sc-lSeQO gLkvUi&quot;]/div[@class=&quot;sc-lmuQER kghnYZ&quot;]/div[@class=&quot;sc-kREsUy TQUaK&quot;]</value>
+      <webElementGuid>20d680a3-7b43-4d04-9820-45718122553d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/div/div/div[5]/div</value>
+      <webElementGuid>d5c6d89d-c885-44dc-9751-75204d3a12c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pure Veg'])[1]/following::div[5]</value>
+      <webElementGuid>a0213697-7005-49dd-b44d-512c95b7574d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspiration for your first order'])[1]/preceding::div[3]</value>
+      <webElementGuid>f581d3aa-3178-4ad2-b4b6-25306b97690f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top brands for you'])[1]/preceding::div[78]</value>
+      <webElementGuid>28565c62-e580-4742-bd64-6e07763cd8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More filters']/parent::*</value>
+      <webElementGuid>7399b69c-a523-4ea8-b5f8-2bb5fce01def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[5]/div</value>
+      <webElementGuid>2e41acb5-614c-4ded-898c-5a07349145da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'More filterschevron-down' or . = 'More filterschevron-down')]</value>
+      <webElementGuid>c5f7bead-2280-4c7d-a62f-25df69323fb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
