@@ -25,9 +25,9 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Se
 
 WebUI.setViewPortSize(1440, 900)
 
-WebUI.takeScreenshotAsCheckpoint('VS')
-
 WebUI.navigateToUrl('http://whatismyscreenresolution.net/')
 
 WebUI.getText(findTestObject('New Folder/resolution'))
+
+WebUI.takeScreenshotAsCheckpoint('VS')
 
