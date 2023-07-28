@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='Press']</value>
+         <value>//input[@type = &quot;file&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9e9c347b-fae6-462d-babb-f2bbc28d57db</webElementGuid>
+      <webElementGuid>390b675c-7119-4bb7-938d-211aa0c9fd96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>8f9923e0-fac8-49fb-86d1-2e80d2cd4a2d</webElementGuid>
+      <webElementGuid>4568fb9f-29a2-4494-82c5-12ad4f143170</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Press</value>
-      <webElementGuid>d90ee6b8-b7f3-42d4-b244-5c7d47ab4167</webElementGuid>
+      <webElementGuid>cc8e0cf3-4022-4adc-8677-85949d79d9c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/form[1]/input[3]</value>
-      <webElementGuid>6840c25c-0e47-49aa-a8c9-9d45820cb1fc</webElementGuid>
+      <webElementGuid>4e6e45d6-21a5-4d1b-9662-574e0e486e17</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Press']</value>
-      <webElementGuid>53cc8ae7-2c47-4c03-ba85-ec942e319317</webElementGuid>
+      <webElementGuid>576526dd-b6b9-4b7b-a32e-e493678b0bd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>edb6d594-984a-4bc0-8eb7-e6edd069550b</webElementGuid>
+      <webElementGuid>8b1940bd-90ad-4a3b-9406-b26ae2076bab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>9d11dff0-144c-4994-8587-a838e77269f3</webElementGuid>
+      <webElementGuid>151a5689-f5e6-49ea-bd25-0caeb187fc84</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

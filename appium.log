@@ -1,39 +1,51 @@
 [35m[Appium][39m Welcome to Appium v2.0.0-beta.57
 [35m[Appium][39m Non-default server args:
-[35m[Appium][39m { loglevel: [32m'info'[39m, port: [33m51743[39m }
+[35m[Appium][39m { loglevel: [32m'info'[39m, port: [33m64401[39m }
 [35m[Appium][39m Attempting to load driver xcuitest...
 [Appium] Attempting to load driver uiautomator2...
-[Appium] Appium REST http interface listener started on 0.0.0.0:51743
+[Appium] Appium REST http interface listener started on 0.0.0.0:64401
 [Appium] Available drivers:
 [Appium]   - xcuitest@4.19.1 (automationName 'XCUITest')
 [Appium]   - uiautomator2@2.12.6 (automationName 'UiAutomator2')
 [Appium] No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.
 [38;5;0m[HTTP][0m [37m-->[39m [37mGET[39m [37m/status[39m
 [38;5;0m[HTTP][0m {}
-[38;5;0m[HTTP][0m <-- GET /status 200 7 ms - 47
+[38;5;0m[HTTP][0m <-- GET /status 200 8 ms - 47
 [38;5;0m[HTTP][0m 
 [38;5;0m[HTTP][0m [37m-->[39m [37mGET[39m [37m/status[39m
 [38;5;0m[HTTP][0m {}
-[38;5;0m[HTTP][0m <-- GET /status 200 8 ms - 47
+[38;5;0m[HTTP][0m <-- GET /status 200 12 ms - 47
 [38;5;0m[HTTP][0m 
 [38;5;0m[HTTP][0m [37m-->[39m [37mPOST[39m [37m/session[39m
-[38;5;0m[HTTP][0m {"desiredCapabilities":{"appium:newCommandTimeout":1800,"appium:automationName":"XCUITest","appium:fullReset":false,"appium:platformVersion":"16.4","appium:noReset":true,"appium:udid":"D4D513ED-2735-4E4C-BC86-DA674668C0BC","appium:wdaLocalPort":51766,"waitForAppScript":"true;","appium:deviceName":"iPhone 14 Pro","platformName":"iOS","appium:realDeviceLogger":"/Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole","appium:app":"/Users/kavitabhatt/Downloads/App.ipa"},"capabilities":{"firstMatch":[{"appium:app":"/Users/kavitabhatt/Downloads/App.ipa","appium:automationName":"XCUITest","appium:deviceName":"iPhone 14 Pro","appium:fullReset":false,"appium:newCommandTimeout":1800,"appium:noReset":true,"appium:platformVersion":"16.4","appium:realDeviceLogger":"/Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole","appium:udid":"D4D513ED-2735-4E4C-BC86-DA674668C0BC","appium:wdaLocalPort":51766,"platformName":"ios","appium:waitForAppScri...
+[38;5;0m[HTTP][0m {"desiredCapabilities":{"appium:newCommandTimeout":1800,"appium:automationName":"XCUITest","appium:fullReset":false,"appium:platformVersion":"16.4","appium:noReset":true,"appium:udid":"A57E3D9E-B513-4E18-880F-5D1CA585B208","appium:wdaLocalPort":64425,"waitForAppScript":"true;","appium:deviceName":"iPhone 14","platformName":"iOS","appium:realDeviceLogger":"/Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole","appium:app":"/Users/kavitabhatt/Downloads/XamarinEvolveiOS.app"},"capabilities":{"firstMatch":[{"appium:app":"/Users/kavitabhatt/Downloads/XamarinEvolveiOS.app","appium:automationName":"XCUITest","appium:deviceName":"iPhone 14","appium:fullReset":false,"appium:newCommandTimeout":1800,"appium:noReset":true,"appium:platformVersion":"16.4","appium:realDeviceLogger":"/Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole","appium:udid":"A57E3D9E-B513-4E18-880F-5D1CA585B208","appium:wdaLocalPort":64425,"platformName":"ios","app...
 [Appium] Attempting to find matching driver for automationName 'XCUITest' and platformName 'ios'
 [Appium] The 'xcuitest' driver was installed and matched caps.
 [Appium] Will require it at /Users/kavitabhatt/.appium/node_modules/appium-xcuitest-driver
-[38;5;16m[AppiumDriver@25a4][0m Appium v2.0.0-beta.57 creating new XCUITestDriver (v4.19.1) session
-[38;5;16m[AppiumDriver@25a4][0m Checking BaseDriver versions for Appium and XCUITestDriver
-[38;5;16m[AppiumDriver@25a4][0m Appium's BaseDriver version is 9.3.3
-[38;5;16m[AppiumDriver@25a4][0m XCUITestDriver's BaseDriver version is 9.3.3
-[38;5;32m[XCUITestDriver@4981][0m The following capabilities were provided, but are not recognized by Appium:
-[38;5;32m[XCUITestDriver@4981][0m   realDeviceLogger
-[38;5;32m[XCUITestDriver@4981][0m   waitForAppScript
-[38;5;32m[XCUITestDriver@4981 (da3972be)][0m Session created with session id: da3972be-d77b-44c8-915a-48d791343fdf
-[38;5;64m[iOSSim][0m Constructing iOS simulator for Xcode version 14.3 with udid 'D4D513ED-2735-4E4C-BC86-DA674668C0BC'
-[38;5;32m[XCUITestDriver@4981 (da3972be)][0m Determining device to run tests on: udid: 'D4D513ED-2735-4E4C-BC86-DA674668C0BC', real device: false
-[38;5;80m[BaseDriver][0m Using local app '/Users/kavitabhatt/Downloads/App.ipa'
-[38;5;32m[XCUITestDriver@4981 (da3972be)][0m 'Payload/App.app' does not have Simulator devices in the list of supported platforms (iPhoneOS). Skipping it
-[38;5;112m[DevCon Factory][0m Releasing connections for D4D513ED-2735-4E4C-BC86-DA674668C0BC device on any port number
-[38;5;112m[DevCon Factory][0m No cached connections have been found
-[38;5;0m[HTTP][0m <-- POST /session 500 2483 ms - 912
+[38;5;16m[AppiumDriver@56de][0m Appium v2.0.0-beta.57 creating new XCUITestDriver (v4.19.1) session
+[38;5;16m[AppiumDriver@56de][0m Checking BaseDriver versions for Appium and XCUITestDriver
+[38;5;16m[AppiumDriver@56de][0m Appium's BaseDriver version is 9.3.3
+[38;5;16m[AppiumDriver@56de][0m XCUITestDriver's BaseDriver version is 9.3.3
+[38;5;32m[XCUITestDriver@6c9d][0m The following capabilities were provided, but are not recognized by Appium:
+[38;5;32m[XCUITestDriver@6c9d][0m   realDeviceLogger
+[38;5;32m[XCUITestDriver@6c9d][0m   waitForAppScript
+[38;5;32m[XCUITestDriver@6c9d (7eb96bf5)][0m Session created with session id: 7eb96bf5-720b-4fcf-9a4c-693353c0fe5c
+[38;5;64m[iOSSim][0m Constructing iOS simulator for Xcode version 14.3.1 with udid 'A57E3D9E-B513-4E18-880F-5D1CA585B208'
+[38;5;32m[XCUITestDriver@6c9d (7eb96bf5)][0m Determining device to run tests on: udid: 'A57E3D9E-B513-4E18-880F-5D1CA585B208', real device: false
+[38;5;80m[BaseDriver][0m Using local app '/Users/kavitabhatt/Downloads/XamarinEvolveiOS.app'
+[38;5;32m[XCUITestDriver@6c9d (7eb96bf5)][0m Using WDA path: '/Users/kavitabhatt/.appium/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent'
+[38;5;32m[XCUITestDriver@6c9d (7eb96bf5)][0m Using WDA agent: '/Users/kavitabhatt/.appium/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgent.xcodeproj'
+[38;5;32m[XCUITestDriver@6c9d (7eb96bf5)][0m Setting up simulator
+[38;5;64m[iOSSim][0m Both Simulator with UDID 'A57E3D9E-B513-4E18-880F-5D1CA585B208' and the UI client are currently running
+[38;5;32m[XCUITestDriver@6c9d (7eb96bf5)][0m App 'com.sample.evolve' is not installed on the device yet
+[38;5;48m[XCUITest][0m Got an error on '/Users/kavitabhatt/Downloads/XamarinEvolveiOS.app' install: Error running 'install': An error was encountered processing the command (domain=IXUserPresentableErrorDomain, code=4):
+[38;5;48m[XCUITest][0m Simulator device returned an error for the requested operation.
+[38;5;48m[XCUITest][0m This app needs to be updated by the developer to work on this version of iOS.
+[38;5;48m[XCUITest][0m Failed to find matching arch for input file: /Users/kavitabhatt/Library/Developer/CoreSimulator/Devices/A57E3D9E-B513-4E18-880F-5D1CA585B208/data/Library/Caches/com.apple.mobile.installd.staging/temp.NDrqMn/extracted/XamarinEvolveiOS.app/XamarinEvolveiOS
+[38;5;48m[XCUITest][0m Underlying error (domain=IXUserPresentableErrorDomain, code=4):
+[38;5;48m[XCUITest][0m 	“Evolve16” Needs To Be Updated
+[38;5;48m[XCUITest][0m 	This app needs to be updated by the developer to work on this version of iOS.
+[38;5;48m[XCUITest][0m Retrying application install
+[38;5;128m[DevCon Factory][0m Releasing connections for A57E3D9E-B513-4E18-880F-5D1CA585B208 device on any port number
+[38;5;128m[DevCon Factory][0m No cached connections have been found
+[38;5;0m[HTTP][0m <-- POST /session 500 2623 ms - 1906
 [38;5;0m[HTTP][0m 

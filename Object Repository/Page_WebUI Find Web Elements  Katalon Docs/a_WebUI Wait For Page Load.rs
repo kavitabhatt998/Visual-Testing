@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WebUI Wait For Page Load</name>
+   <tag></tag>
+   <elementGuidId>e03df9ae-4ad9-48c1-abef-60d65620017d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus']/div[2]/div/aside/div/nav/ul/li[5]/ul/li[8]/ul/li[3]/ul/li/ul/li[128]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eea77d45-f732-48d7-9e94-31bf42d1284f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu__link</value>
+      <webElementGuid>60a91180-5b66-4057-8856-c38e3c24c8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ffa461ca-9f03-435b-9cc8-c8ad1adc80b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-page-load</value>
+      <webElementGuid>22b8b8e1-9da7-418c-a0be-15bc70886a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[WebUI] Wait For Page Load</value>
+      <webElementGuid>553ca9bb-12f1-431b-996a-c2e401c610ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus&quot;)/div[@class=&quot;main-wrapper docsWrapper_mKqt&quot;]/div[@class=&quot;docPage_ualW&quot;]/aside[@class=&quot;theme-doc-sidebar-container docSidebarContainer_UQUJ&quot;]/div[@class=&quot;sidebar_mhZE&quot;]/nav[@class=&quot;menu thin-scrollbar menu_izAj&quot;]/ul[@class=&quot;theme-doc-sidebar-menu menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item&quot;]/ul[@class=&quot;menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item&quot;]/ul[@class=&quot;menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item&quot;]/ul[@class=&quot;menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-4 menu__list-item&quot;]/ul[@class=&quot;menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-5 menu__list-item&quot;]/a[@class=&quot;menu__link&quot;]</value>
+      <webElementGuid>5816eb97-d066-48a2-8aeb-8a0bc6d50ca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus']/div[2]/div/aside/div/nav/ul/li[5]/ul/li[8]/ul/li[3]/ul/li/ul/li[128]/a</value>
+      <webElementGuid>de034928-04b7-4224-bdcd-8d87158b2058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'[WebUI] Wait For Page Load')]</value>
+      <webElementGuid>5dc91fec-b093-459d-b863-fd307b842eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[WebUI] Wait for jQuery Load'])[1]/following::a[1]</value>
+      <webElementGuid>7eab3920-1696-456e-be5e-36c61b5c2370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[WebUI] Wait For Image Present'])[1]/following::a[2]</value>
+      <webElementGuid>983c06ae-c74f-4124-ba96-793d540b7d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create tests'])[2]/preceding::a[20]</value>
+      <webElementGuid>cf8b0152-f388-40e1-8364-1795e345c636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keywords'])[2]/preceding::a[20]</value>
+      <webElementGuid>bc57e2b5-ec2e-41b5-bef0-553974253dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[WebUI] Wait For Page Load']/parent::*</value>
+      <webElementGuid>6b30b17f-4b5a-484b-9484-b875b10c02d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-page-load')]</value>
+      <webElementGuid>ed82e341-ef6c-4947-8def-5eab3fe3f3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[128]/a</value>
+      <webElementGuid>7ec5251c-fa8b-4409-b001-299f70b91506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-page-load' and (text() = '[WebUI] Wait For Page Load' or . = '[WebUI] Wait For Page Load')]</value>
+      <webElementGuid>eef8a3ed-d11a-4235-a632-f26b338eb965</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

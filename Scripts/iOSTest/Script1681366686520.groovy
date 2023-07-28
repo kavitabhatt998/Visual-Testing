@@ -16,10 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.util.KeywordUtil
-WebUI.callTestCase(findTestCase('Mobile'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.getText(findTestObject('iOS/XCUIElementTypeStaticText - Colombian'))
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 Mobile.startApplication('/Users/kavitabhatt/Downloads/Coffee Timer 2.app', true)
 
@@ -40,7 +37,4 @@ Mobile.tap(findTestObject(''), 0)
 Mobile.tap(findTestObject(''), 0)
 
 Mobile.closeApplication()
-
-WebUI.comment('')
-KeywordUtil.logInfo("TESTING LOGGER IN KATALON\n")
 

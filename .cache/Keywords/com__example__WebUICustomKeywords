@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "90B19A5B1550CE8D2F6F45340480A969",
+  "keywordFileContentHash": "DFE7BABEC7B12C2F84CE600C2D2ABF4B",
   "keywordClasses": [
     {
       "name": "com.example.WebUICustomKeywords",
@@ -99,6 +99,38 @@
             }
           ],
           "javadoc": "/**\n\t * Get all cells of HTML table row\n\t * @param row a WebElement instance represent for HTML table row \n\t * @param tagName HTML column tag name, usually is TD/TH\n\t * @return All cells inside HTML table row \n\t */"
+        },
+        {
+          "name": "keyword_moveMouse",
+          "parameters": [
+            {
+              "name": "x",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "y",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
         }
       ]
     }

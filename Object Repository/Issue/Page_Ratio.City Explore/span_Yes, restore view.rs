@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes, restore view</name>
+   <tag></tag>
+   <elementGuidId>6c024b9c-d02e-436a-b925-fe028ad5563f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/restore-user-data-choice-dialog/div/mat-dialog-actions/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eac6019f-2fd1-4ac4-b819-24f08df07227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>984a03a3-c2a6-455e-935a-01a0a2db5644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes, restore view</value>
+      <webElementGuid>b38272c3-db8b-4241-9e27-0e0a4a939645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/restore-user-data-choice-dialog[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dialog-wrapper&quot;]/mat-dialog-actions[@class=&quot;mat-dialog-actions mat-dialog-actions-align-end&quot;]/div[@class=&quot;dialog-actions-wrapper&quot;]/div[1]/button[@class=&quot;mat-focus-indicator mat-flat-button mat-button-base mat-primary cdk-focused cdk-program-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>057464de-0676-4287-b693-04a2b361df91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/restore-user-data-choice-dialog/div/mat-dialog-actions/div/div/button/span</value>
+      <webElementGuid>8aa8846a-401e-49f5-97ea-fc499ee16c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick up where you left off?'])[1]/following::span[9]</value>
+      <webElementGuid>b08a0856-8509-459d-b92d-9023e81c2f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, thanks'])[1]/preceding::span[3]</value>
+      <webElementGuid>885e60a9-b917-44aa-9f36-6abe30de7ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes, restore view']/parent::*</value>
+      <webElementGuid>e481c736-c79c-4ded-a02e-4bb72a31799b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>33ba74f5-61f8-4885-9a8d-a241d724528a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Yes, restore view' or . = ' Yes, restore view')]</value>
+      <webElementGuid>e0720e7b-9eb9-4d00-8a42-e036ec37e96f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

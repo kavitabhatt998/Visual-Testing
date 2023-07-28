@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_StarTech.com - Integrated Accessibility Standard</name>
+   <tag></tag>
+   <elementGuidId>9325ab8a-22fe-40f7-ba93-2c7a2c2e8823</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-4.col-md-4.col-12 > ul.list-unstyled > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='mainContent']/div[4]/div/div/div[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ac45cc41-2e03-48c1-8cc0-dfd16c0a8105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://media.startech.com/cms/startech.com/media/pdfs/ST.com-integrated-accessibility-standard-2021.pdf</value>
+      <webElementGuid>ac883031-353b-4e2a-9b4e-fd55299e7e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c97107bf-cf97-4600-baa0-34de5d983533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>StarTech.com - Integrated Accessibility Standard</value>
+      <webElementGuid>40187c49-3de0-4e89-bb6e-992d4ad7bf9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;container mt-5 mb-5&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-md-4 col-12&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[1]/a[1]</value>
+      <webElementGuid>fc0cab20-85fb-44c2-a29a-b6c5ce1833a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='mainContent']/div[4]/div/div/div[2]/ul/li/a</value>
+      <webElementGuid>9d4fc287-1006-461c-a189-baa2f0884eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'StarTech.com - Integrated Accessibility Standard')]</value>
+      <webElementGuid>914999d7-d9b9-4132-b9ab-85315d884575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='StarTech.com Standards'])[1]/following::a[1]</value>
+      <webElementGuid>a2be0469-075d-45c5-afde-6974e96e969e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility for Ontarians with Disabilities Act, 2005 (AODA)'])[1]/following::a[1]</value>
+      <webElementGuid>e05a83d8-1be0-47fc-aaf6-fec6cc598400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='StarTech.com - Customer Service Standard'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5fa96ea-f8a9-42bc-8fb9-46f913482d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='StarTech.com Accessibility Plan'])[1]/preceding::a[2]</value>
+      <webElementGuid>56fce60c-c2b0-4343-a07a-db07a34a4c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='StarTech.com - Integrated Accessibility Standard']/parent::*</value>
+      <webElementGuid>65b1ef15-8e27-4aa4-a964-e0794669c3b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://media.startech.com/cms/startech.com/media/pdfs/ST.com-integrated-accessibility-standard-2021.pdf')]</value>
+      <webElementGuid>2f89603d-17b9-4e89-a72b-39f97d8b06ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/ul/li/a</value>
+      <webElementGuid>229afaf1-c143-41ad-b536-c340a9ad7331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://media.startech.com/cms/startech.com/media/pdfs/ST.com-integrated-accessibility-standard-2021.pdf' and (text() = 'StarTech.com - Integrated Accessibility Standard' or . = 'StarTech.com - Integrated Accessibility Standard')]</value>
+      <webElementGuid>c298d071-ad6a-4f6b-9254-3459734acb2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

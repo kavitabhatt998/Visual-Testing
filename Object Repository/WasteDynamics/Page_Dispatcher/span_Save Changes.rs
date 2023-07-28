@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save Changes</name>
+   <tag></tag>
+   <elementGuidId>f40a8f4e-dbcd-4076-8a32-114e61d2c06b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.pull-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/form/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>90476d9d-8be5-4bde-99a9-a404359725a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-left</value>
+      <webElementGuid>7c751a86-050e-4eb9-9057-3b399b07380d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save Changes</value>
+      <webElementGuid>ac5b3a7c-296c-4778-91e6-f5019f55bdb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[2]/div[@class=&quot;col-xs-12 col-sm-12 col-md-10 col-lg-10&quot;]/div[@class=&quot;container-fluid&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-7 col-lg-7&quot;]/div[@class=&quot;row panel panel-default&quot;]/div[@class=&quot;container-fluid push-down-super-small&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/button[@class=&quot;btn btn-primary push-down-very-small pull-right&quot;]/span[@class=&quot;pull-left&quot;]</value>
+      <webElementGuid>6ba87e79-be13-4e6a-bbfc-37c3176ab8c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/form/div/div/button/span</value>
+      <webElementGuid>129766e9-949d-4964-9c9e-6a20f99bebc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Type Short Code'])[1]/following::span[1]</value>
+      <webElementGuid>f63c0573-ebe5-44f6-8fb2-48d6f81e0e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Type Name'])[1]/following::span[1]</value>
+      <webElementGuid>18af2ef0-26ee-4aea-8126-b056c4032682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check'])[1]/preceding::span[1]</value>
+      <webElementGuid>27d6620f-c3a4-4a14-b027-7039ddf7fc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HELP'])[1]/preceding::span[1]</value>
+      <webElementGuid>2459c5cc-9089-4f3a-96a0-4f497bf03b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save Changes']/parent::*</value>
+      <webElementGuid>6492d16c-8120-4967-bd84-d10880605bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/button/span</value>
+      <webElementGuid>ef7bd7eb-3eba-4202-8a6c-ea726695c2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save Changes' or . = 'Save Changes')]</value>
+      <webElementGuid>56cc7d13-d99d-49dc-8506-db95a06d4ec5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>81a90955-2d41-4d67-97fc-423a36f86b47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.page-header-title > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layoutSidenav_content']/main/app-dashboard-overview/app-dashboard-head/div/div/div/div/div/h1/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13a3b832-4ecc-47d5-9d37-66d1b2834fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>55218a35-2bb5-4ee9-8c3f-5fcc47b6dab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layoutSidenav_content&quot;)/main[@class=&quot;h-100&quot;]/app-dashboard-overview[@class=&quot;h-100 ng-star-inserted&quot;]/app-dashboard-head[1]/div[@class=&quot;page-header page-header-dark bg-gradient-primary-to-secondary pb-10 ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;page-header-content pt-4&quot;]/div[@class=&quot;row align-items-center justify-content-between&quot;]/div[@class=&quot;col-auto mt-4&quot;]/h1[@class=&quot;page-header-title&quot;]/span[1]</value>
+      <webElementGuid>cc2e3b9d-c0eb-401a-b4d7-6f3590fa5684</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layoutSidenav_content']/main/app-dashboard-overview/app-dashboard-head/div/div/div/div/div/h1/span</value>
+      <webElementGuid>84d8699c-7d12-4257-a972-0c74389d4199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Administrator1'])[2]/following::span[1]</value>
+      <webElementGuid>362c48ad-e8f1-4370-bd71-b9e3d2d94487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>f2036835-74f3-4722-bbad-8e9fd7fc8ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>1d2b4c60-fceb-480f-9d2c-1613cd72e702</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

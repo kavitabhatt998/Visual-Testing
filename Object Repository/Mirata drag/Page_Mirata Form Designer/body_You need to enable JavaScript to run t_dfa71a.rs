@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_dfa71a</name>
+   <tag></tag>
+   <elementGuidId>95a4c83f-75f3-432c-92c3-355ad38ae1ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>0e5e3a82-0bb0-4659-b8b7-5a8726774770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.2.1 (9959) | 10-June-2023Kavita BhattMirata DesignerOpen RecentAppend Standard comments dropdown to Comments fieldSat May 13 20231abcdrainTue Apr 18 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1abcdrainTue Apr 18 202310Append Standard comments dropdown to Comments fieldSat May 13 20233© Mirata Software LLC | 2023qa | 2.2.1 (9959) | 10-June-2023id(&quot;menu-&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;renderer-MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.drainsacme-id.form-type.plugs</value>
+      <webElementGuid>b5f7639b-5fe6-4d53-8624-19f983fd1b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]</value>
+      <webElementGuid>e24c9b94-6027-4891-9a91-bcb587f43495</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>1f8d349c-2ad2-43fd-89a5-e15488b4f2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.2.1 (9959) | 10-June-2023Kavita BhattMirata DesignerOpen RecentAppend Standard comments dropdown to Comments fieldSat May 13 20231abcdrainTue Apr 18 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1abcdrainTue Apr 18 202310Append Standard comments dropdown to Comments fieldSat May 13 20233© Mirata Software LLC | 2023qa | 2.2.1 (9959) | 10-June-2023id(&quot;menu-&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;renderer-MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.drainsacme-id.form-type.plugs' or . = 'You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.2.1 (9959) | 10-June-2023Kavita BhattMirata DesignerOpen RecentAppend Standard comments dropdown to Comments fieldSat May 13 20231abcdrainTue Apr 18 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1abcdrainTue Apr 18 202310Append Standard comments dropdown to Comments fieldSat May 13 20233© Mirata Software LLC | 2023qa | 2.2.1 (9959) | 10-June-2023id(&quot;menu-&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;renderer-MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.drainsacme-id.form-type.plugs')]</value>
+      <webElementGuid>25b7ca39-9d00-45ab-8502-b2e92eff195a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

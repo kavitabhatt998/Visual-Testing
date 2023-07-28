@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reset my password</name>
+   <tag></tag>
+   <elementGuidId>c2c1a36b-2f7d-44be-9bf3-019dce3e768f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='reset_my_password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;reset_my_password&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3845e104-3702-4546-bacc-3c2fa83c7ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>reset_my_password</value>
+      <webElementGuid>279ea4d3-2c3b-49d0-a122-fc650d863945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8ad51ce4-01ef-4f0c-a6fd-154367ccb023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary submitButton-customizable</value>
+      <webElementGuid>c0676265-c35e-42d2-ac2a-2158a54a280b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset my password</value>
+      <webElementGuid>0d1038ee-c9ba-4104-9af2-aa395982e5f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-hires a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition&quot;]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content background-customizable modal-content-mobile&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[1]/form[@class=&quot;cognito-asf&quot;]/button[@class=&quot;btn btn-primary submitButton-customizable&quot;]</value>
+      <webElementGuid>9baaddfb-303b-45cc-aa74-af49c67e31e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='reset_my_password']</value>
+      <webElementGuid>0bca08a6-7e9e-4a32-9fa0-e51567fc0081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your Email below and we will send a message to reset your password'])[1]/following::button[1]</value>
+      <webElementGuid>3c61054e-051d-4d97-a6b2-d9c2e2c1b5aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/following::button[1]</value>
+      <webElementGuid>c57276cd-ff12-4996-b9e6-15cfb1238744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset my password']/parent::*</value>
+      <webElementGuid>e3164e8b-25da-45f9-bac5-d6d8b8252121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>4990358e-9a3f-4920-806f-c65084b08967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'reset_my_password' and @type = 'submit' and (text() = 'Reset my password' or . = 'Reset my password')]</value>
+      <webElementGuid>cebdf12d-08d3-4e0e-8d34-bb0aa9aad47b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Ann Demo</name>
+   <tag></tag>
+   <elementGuidId>479502f4-aef3-438d-9e7a-cd0a14198b4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-dropdown']/div[3]/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7cf66f28-7bd4-4a4e-a6fa-9590ea1829d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button</value>
+      <webElementGuid>a57e6f1b-dc5f-452e-a2c4-7582cfb02a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f811409a-b259-42c8-96b4-948a10490ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>17e16d3c-1fd0-4a33-b567-8b45aa02ab12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>cdf5d321-887e-43cd-9692-31f301bc33eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Ann Demo</value>
+      <webElementGuid>2d3fcad8-131b-4794-8f1b-9ecc926c5b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ann Demo</value>
+      <webElementGuid>4d0e08aa-1c48-42d4-b2cc-0304853f74ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-dropdown&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]</value>
+      <webElementGuid>4d492500-42a2-4674-9ba7-ed9c77b423d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-dropdown']/div[3]/ul/li[2]</value>
+      <webElementGuid>309cf973-d0f5-4aeb-9526-f4d5e8e52a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virginia Demo'])[1]/following::li[1]</value>
+      <webElementGuid>956cb1d6-6520-497b-b8b3-f9e3bc60019b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::li[2]</value>
+      <webElementGuid>e30ef9e2-cc85-4adb-9872-53d11120e0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frank Talluto'])[1]/preceding::li[1]</value>
+      <webElementGuid>b416adee-2ad2-46d7-8e4d-ca671cda27b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ann Demo']/parent::*</value>
+      <webElementGuid>b64a53bb-981f-40a2-9dea-448dd9982cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>6ce0f864-63d0-4ddf-8c57-ef6056ae21d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Ann Demo' or . = 'Ann Demo')]</value>
+      <webElementGuid>2bbc589a-27e1-4604-b0bc-23e48ac636ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Credit CardVISA_4242</name>
+   <tag></tag>
+   <elementGuidId>a5425f1f-4902-4008-9765-2f12f8f3f779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cars</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cars']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>efb8d539-17bd-4404-a360-36d8676b19d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cars</value>
+      <webElementGuid>96992624-742b-4479-9bef-367fbf660a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>selectedCardId</value>
+      <webElementGuid>3887c968-92a9-4ac8-9780-0d5c7cbe7114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Select Credit Card
+					VISA_4242
+			    </value>
+      <webElementGuid>0ab223cd-ed49-4464-b9ca-abed251abcc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cars&quot;)</value>
+      <webElementGuid>7f85aa2b-ea00-46ec-a497-16545c095b43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cars']</value>
+      <webElementGuid>baf3e24b-59ef-4b09-b8fe-f8f826ba918f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Polly Subscription'])[1]/following::select[1]</value>
+      <webElementGuid>332b95ff-3fcb-4a67-b02f-8a99a1498bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect With Us'])[1]/following::select[1]</value>
+      <webElementGuid>a17734bd-5d1f-4400-a4ba-27c6c82384a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::select[1]</value>
+      <webElementGuid>17e4cd26-f721-49ad-8221-0ff93bb0eba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/preceding::select[1]</value>
+      <webElementGuid>5b5a49b9-e957-41d9-ad23-97585fd573ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>40fc53b8-1b5b-48dc-971b-46910aed0d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'cars' and @name = 'selectedCardId' and (text() = '
+                    Select Credit Card
+					VISA_4242
+			    ' or . = '
+                    Select Credit Card
+					VISA_4242
+			    ')]</value>
+      <webElementGuid>cba41226-abd4-4fb7-b7cd-ee375c8befcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_search</name>
+   <tag></tag>
+   <elementGuidId>bcff6cf2-f8bb-426a-8f8b-9d12588f5973</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-flat-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.small-icon.material-icons.mat-ligature-font.mat-icon-no-color.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore'])[1]/following::mat-icon[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>9584fd4f-fe1f-4616-8c6c-e8ed80998d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3894bc1b-c522-43bd-82b0-4f1a5dbb35f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3a79ff20-ca34-45f8-9f34-2f41074cf500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Explore icon</value>
+      <webElementGuid>cce57a83-6754-429c-8a51-762c1ab4ac73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate small-icon material-icons mat-ligature-font mat-icon-no-color ng-star-inserted</value>
+      <webElementGuid>6e0e643a-19ad-453f-8157-1bb8377dbe67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>0a7d45d5-1121-48e5-950b-20b068a3f20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> search </value>
+      <webElementGuid>9a88d463-ffdb-4cf2-89b5-4f148c4e098e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ratio-root[1]/ratio-dynamic-layout[1]/div[@class=&quot;dynamic-app-container&quot;]/div[@class=&quot;nav-bar&quot;]/ratio-nav-bar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;nav-button-container&quot;]/div[@class=&quot;center-buttons overflow&quot;]/div[@class=&quot;ng-star-inserted nav-button&quot;]/button[@class=&quot;mat-focus-indicator mat-flat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate small-icon material-icons mat-ligature-font mat-icon-no-color ng-star-inserted&quot;]</value>
+      <webElementGuid>92efc9f1-8629-45fe-8c5c-4f362a89d384</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>874496eb-1bad-4411-8d96-1dd2d33c243a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='layers'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>1ea4ff38-7a2f-40d1-af33-32ddc2d6fec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locate'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>7d4b78b0-99e3-4539-bd35-599566ccd3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='edit'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>a1e0de40-a60e-4c98-818e-ea46dfee4f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='search']/parent::*</value>
+      <webElementGuid>85607323-a5e7-49e5-aa7c-60c37e65dac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/mat-icon</value>
+      <webElementGuid>93c77cf8-50a9-466a-92fa-cfa38844a941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = ' search ' or . = ' search ')]</value>
+      <webElementGuid>22c542d3-2ba2-4852-aa88-ab12e0b307de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

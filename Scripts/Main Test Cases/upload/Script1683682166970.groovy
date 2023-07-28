@@ -16,12 +16,17 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.configuration.RunConfiguration
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://cgi-lib.berkeley.edu/ex/perl5/fup.html')
+
 String dirName = RunConfiguration.getProjectDir()
-dirName= dirName+"/Resources/image.png"
+
+dirName = (dirName + '/Resources/image.png')
 
 WebUI.uploadFile(findTestObject('upload1/Page_Sample File Upload Form/input'), dirName)
+
+//WebUI.uploadFile(findTestObject('upload1/Page_Sample File Upload Form/input'), '/Users/kavitabhatt/Downloads/healthcare-tests-master/Resources/image.png')
 

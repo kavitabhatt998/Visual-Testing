@@ -16,13 +16,30 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.interactions.Actions as Actions
 
+//WebDriverManager.chromedriver().setup();
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.globalsqa.com/demo-site/select-dropdown-menu/')
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/dropdown/Page_DropDown Menu  Dummy-Site  GlobalSQA/select_Afghanistanland IslandsAlbaniaAlgeri_0c4dfd'), 
-    'ESH', true)
+WebUI.setText(findTestObject('Object Repository/New Folder/Page_OrangeHRM/input_Username_username'), 'Admin')
 
-WebUI.closeBrowser()
+WebUI.setEncryptedText(findTestObject('Object Repository/New Folder/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_OrangeHRM/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_OrangeHRM/a_Leave'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_OrangeHRM/i_Select_oxd-icon bi-caret-up-fill oxd-sele_393c36'))
+
+WebUI.scrollToElement(findTestObject('New Folder drop down/Page_OrangeHRM/i_-- Select --_oxd-icon bi-caret-up-fill ox_627fec'), 
+    10)
+
+//Actions action= new Actions(driver);
+//action.click('Object Repository/New Folder/Page_OrangeHRM/i_Select_oxd-icon bi-caret-up-fill oxd-sele_393c36');
+//action.scrollToElement('Object Repository/New Folder/Page_OrangeHRM/i_Select_oxd-icon bi-caret-up-fill oxd-sele_393c36').perform();
+WebUI.click(findTestObject('New Folder/Page_OrangeHRM/i_-- Select --_oxd-icon bi-caret-up-fill ox_627fec'))
+
+WebUI.click(findTestObject('Object Repository/New Folder/Page_OrangeHRM/button_Search'))
 

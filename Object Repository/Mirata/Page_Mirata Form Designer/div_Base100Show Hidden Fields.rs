@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Base100Show Hidden Fields</name>
+   <tag></tag>
+   <elementGuidId>f7d33608-537a-400f-bd2c-802302d08537</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.c-viewer-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/amplify-authenticator/div[2]/div/div[5]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7d44602-7777-4bca-92c4-cac05c5eeb4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-viewer-header</value>
+      <webElementGuid>2484de7b-5a60-416f-aade-18cf8fb2540e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Base100%Show Hidden Fields</value>
+      <webElementGuid>5c4ab17b-3586-406e-af34-d4205cc32b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/amplify-authenticator[@class=&quot;hydrated&quot;]/div[@class=&quot;l-designer-wrapper&quot;]/div[@class=&quot;l-designer-grid&quot;]/div[@class=&quot;l-designer-form&quot;]/div[@class=&quot;c-viewer&quot;]/div[@class=&quot;c-viewer-header&quot;]</value>
+      <webElementGuid>44ad9462-d112-4844-bcc2-07ba858c805e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/amplify-authenticator/div[2]/div/div[5]/div/div[2]</value>
+      <webElementGuid>6cd2742a-61ea-474a-9c28-30b6020faf9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='demo3'])[2]/following::div[11]</value>
+      <webElementGuid>23840253-42ce-449d-b9a2-6ccbeb3f3a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opens a URL'])[1]/following::div[22]</value>
+      <webElementGuid>5fa0d9bd-96a8-4298-b651-5085a90e2f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Control Properties'])[1]/preceding::div[10]</value>
+      <webElementGuid>c49c8071-c61e-4d72-837b-339c7d9b5341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]</value>
+      <webElementGuid>2680e517-2d13-462f-8283-7969b9dc0a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Base100%Show Hidden Fields' or . = 'Base100%Show Hidden Fields')]</value>
+      <webElementGuid>d5405dbe-c3e6-47bd-a39a-4713e1c0cffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

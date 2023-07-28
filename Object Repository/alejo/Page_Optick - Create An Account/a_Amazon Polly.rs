@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Amazon Polly</name>
+   <tag></tag>
+   <elementGuidId>0a950c3f-c8b4-445b-a4e6-60135cdc1b90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-menu']/ul/li/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f111d83-3eca-4e20-a1a1-16ed27811f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/products/47067494840000</value>
+      <webElementGuid>8ce36184-07ad-482f-a9d3-3726c403ecd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amazon Polly</value>
+      <webElementGuid>e52da3ab-3340-4037-9525-7b6555f62550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-menu&quot;)/ul[@class=&quot;nav navbar-nav navbar-center&quot;]/li[@class=&quot;dropdown on&quot;]/ul[@class=&quot;dropdown-menu fadeInDown&quot;]/li[4]/a[1]</value>
+      <webElementGuid>633f3612-a034-492b-8b3f-de4e5e08a727</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-menu']/ul/li/ul/li[4]/a</value>
+      <webElementGuid>c25cea97-f1bf-4401-9ac6-ca0750918200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Amazon Polly')]</value>
+      <webElementGuid>40673775-629c-4770-af8f-313e8481aab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Fraud Detector'])[1]/following::a[1]</value>
+      <webElementGuid>67b22611-da6b-4538-8fb2-8e4f45aedfe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Comprehend'])[1]/following::a[2]</value>
+      <webElementGuid>dfe2f06c-7df1-4beb-8dc3-5d8044c94ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Rekognition'])[1]/preceding::a[1]</value>
+      <webElementGuid>285222aa-275d-4259-83e5-1b96d0956dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Textract'])[1]/preceding::a[2]</value>
+      <webElementGuid>4bfdd35d-b869-49d4-850d-9293c84a924d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Amazon Polly']/parent::*</value>
+      <webElementGuid>0ce60497-32ea-4415-903d-6c4d7289ec2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/products/47067494840000')]</value>
+      <webElementGuid>02628d5e-4754-43e0-aa61-0f62f68c8498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[4]/a</value>
+      <webElementGuid>7a3ca194-89a4-4a69-a1f4-f87bc9343cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/products/47067494840000' and (text() = 'Amazon Polly' or . = 'Amazon Polly')]</value>
+      <webElementGuid>476c0b73-bf65-44c5-aba7-d16814c7bb1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_qa  2.0.27 (9837)  23-May-2023_inbox-tr_6f51c7</name>
+   <tag></tag>
+   <elementGuidId>b6b5d3d7-9e9f-4fec-935e-2260cb7885dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.inbox-transition-load-layout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='qa | 2.0.27 (9837) | 23-May-2023'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7a36255-f5d1-4cf8-ae3b-dc52a79d2553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inbox-transition-load-layout</value>
+      <webElementGuid>fce47a36-581f-43f9-9c00-bbb1b5cfd945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inbox-transition-splash&quot;)/div[@class=&quot;inbox-transition-load-layout&quot;]</value>
+      <webElementGuid>858da9b4-0a3b-4ab1-8f42-ce8a727fb96f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inbox-transition-splash']/div</value>
+      <webElementGuid>e8f6dc92-e3e6-4a05-9a3c-6df38914b078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='qa | 2.0.27 (9837) | 23-May-2023'])[1]/following::div[2]</value>
+      <webElementGuid>4461f92b-ea8a-4690-aee2-0d63d7e51dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to Sign In'])[1]/following::div[3]</value>
+      <webElementGuid>1f307e3a-1db4-47cb-91dd-a6d51d9a5eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='qa | 2.0.27 (9837) | 23-May-2023'])[2]/preceding::div[4]</value>
+      <webElementGuid>fb7bbbc1-284d-4d1a-b674-11b22691c2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form created'])[1]/preceding::div[5]</value>
+      <webElementGuid>a0e76b27-db59-4e6e-83c2-ca20765b8430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//amplify-authenticator/div[2]/div</value>
+      <webElementGuid>bc0c9e27-442d-4879-b3ae-579d854b0f17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

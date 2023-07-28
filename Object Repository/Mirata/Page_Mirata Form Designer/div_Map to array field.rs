@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Map to array field</name>
+   <tag></tag>
+   <elementGuidId>406c6217-5e5d-490c-b681-135a96b24f61</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/amplify-authenticator/div[2]/div/div[4]/div/div/div/div[2]/div[4]/div/div[2]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dfd86237-79ab-416f-9eca-b6828daa1559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-controls-section-control-context</value>
+      <webElementGuid>14bf5568-8efc-4fe6-9400-936ad74c0031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Map to array field</value>
+      <webElementGuid>3af01485-7e6c-4147-9bea-3108ab88bff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/amplify-authenticator[@class=&quot;hydrated&quot;]/div[@class=&quot;l-designer-wrapper&quot;]/div[@class=&quot;l-designer-grid&quot;]/div[@class=&quot;l-designer-panel-content left-dpc&quot;]/div[@class=&quot;c-panel-content&quot;]/div[1]/div[@class=&quot;control-selector-panel&quot;]/div[@class=&quot;control-selector-sections&quot;]/div[@class=&quot;a-controls-section&quot;]/div[@class=&quot;a-controls-section-body&quot;]/div[@class=&quot;a-controls-section-control&quot;]/div[@class=&quot;a-controls-section-control-text&quot;]/div[@class=&quot;a-controls-section-control-context&quot;]</value>
+      <webElementGuid>776886c5-53a4-4189-b00f-5f1aa8fccb17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/amplify-authenticator/div[2]/div/div[4]/div/div/div/div[2]/div[4]/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>43ac72a1-985f-4e2f-a7e6-93fa5d844845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image Grid'])[1]/following::div[1]</value>
+      <webElementGuid>a4c13d92-a415-476f-bd89-f5e086f71a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display or capture an image'])[1]/following::div[5]</value>
+      <webElementGuid>ad591946-2bdf-442e-84d1-45b7b95fcff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lists &amp; Tables'])[1]/preceding::div[1]</value>
+      <webElementGuid>a5f22ec2-8ced-4349-aee1-4c78024177f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Grid'])[1]/preceding::div[5]</value>
+      <webElementGuid>865dc658-f07d-48f5-bb15-6796fdfdefea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Map to array field']/parent::*</value>
+      <webElementGuid>6e859c28-df37-4475-9c8b-ff4bb2ba685c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>8d75a913-4d0a-4ac0-aa63-e9d23e29ddb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Map to array field' or . = 'Map to array field')]</value>
+      <webElementGuid>98c1dd17-2757-45b0-8358-862d037224ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

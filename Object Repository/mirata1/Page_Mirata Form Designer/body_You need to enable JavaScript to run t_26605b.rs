@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_26605b</name>
+   <tag></tag>
+   <elementGuidId>e4e900a9-cfd9-4b4f-b6de-4670e45d2c43</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>407c93fe-4879-4e80-8b4b-8b3b4617953a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023Kavita BhattMirata DesignerOpen RecentDemoMon Jun 05 20231A_Horses_MiniTue May 23 20231_HorsesWed Apr 19 20231MiniMon Apr 10 2023A_List_SigTue Mar 21 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1_HorsesWed Apr 19 202371A_Horses_MiniTue May 23 202361GetGoodCookiesTue Mar 14 202331MiniMon Apr 10 20231A_List_SigTue Mar 21 20237DemoMon Jun 05 20231TL Test Email 012Tue Mar 14 20231© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023id(&quot;menu-&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;renderer-MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.terri-ype</value>
+      <webElementGuid>034c9c4f-a6d4-412b-b8d8-7ea62951020d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]</value>
+      <webElementGuid>70765a47-ca2a-486e-93dd-fa4e472ef545</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>b30709fc-a857-415a-b3d9-bc0b1bb94874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023Kavita BhattMirata DesignerOpen RecentDemoMon Jun 05 20231A_Horses_MiniTue May 23 20231_HorsesWed Apr 19 20231MiniMon Apr 10 2023A_List_SigTue Mar 21 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1_HorsesWed Apr 19 202371A_Horses_MiniTue May 23 202361GetGoodCookiesTue Mar 14 202331MiniMon Apr 10 20231A_List_SigTue Mar 21 20237DemoMon Jun 05 20231TL Test Email 012Tue Mar 14 20231© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023id(&quot;menu-&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;renderer-MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.terri-ype' or . = 'You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023Kavita BhattMirata DesignerOpen RecentDemoMon Jun 05 20231A_Horses_MiniTue May 23 20231_HorsesWed Apr 19 20231MiniMon Apr 10 2023A_List_SigTue Mar 21 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1_HorsesWed Apr 19 202371A_Horses_MiniTue May 23 202361GetGoodCookiesTue Mar 14 202331MiniMon Apr 10 20231A_List_SigTue Mar 21 20237DemoMon Jun 05 20231TL Test Email 012Tue Mar 14 20231© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023id(&quot;menu-&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;renderer-MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.terri-ype')]</value>
+      <webElementGuid>ae32e09a-8187-41a1-a178-ed97315382ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

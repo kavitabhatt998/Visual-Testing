@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Delhi NCR_sc-gFXMyG fEokXR</name>
+   <tag></tag>
+   <elementGuidId>6eadf429-c442-4e7e-b2c6-8e5cc6c4b903</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.sc-gFXMyG.fEokXR</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3f84f32b-0dac-491a-8e84-26e01311e59d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search for restaurant, cuisine or a dish</value>
+      <webElementGuid>1ffa85d3-7e6f-4e7e-8190-99621ff46701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-gFXMyG fEokXR</value>
+      <webElementGuid>f253337d-7641-443f-8c3f-9456df8c5b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fEUNkw gAkuDn&quot;]/div[@class=&quot;sc-ivjarL cWCtds&quot;]/div[@class=&quot;contents-wrapper&quot;]/div[@class=&quot;searchContainer&quot;]/div[@class=&quot;sc-kDkoGq gPszkw&quot;]/div[@class=&quot;sc-18n4g8v-0 gAhmYY sc-bTiqRo cGUIwG&quot;]/input[@class=&quot;sc-gFXMyG fEokXR&quot;]</value>
+      <webElementGuid>8aa070e0-1885-4248-8fff-46f155c5c85a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>be95558b-69e3-460d-851e-c0ca5360867b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div[2]/div[2]/div/div[3]/input</value>
+      <webElementGuid>cd8a7612-63d6-4963-a0ef-d4ccb2213722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>66b41e27-6a98-44d3-a7ab-99cc5c4a4221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search for restaurant, cuisine or a dish']</value>
+      <webElementGuid>69af3493-ee3d-4f21-b9d2-6d2ff184ed41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

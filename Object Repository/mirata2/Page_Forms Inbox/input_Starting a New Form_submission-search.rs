@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Starting a New Form_submission-search</name>
+   <tag></tag>
+   <elementGuidId>f90757a9-35c6-41f8-9663-2fa2c1b2a535</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='submission-search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;submission-search&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f29f9582-e839-4c0b-86da-814c11be6eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>submission-search</value>
+      <webElementGuid>ece5c69e-0dec-4828-9eb2-38cc9e76b800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>new-submission-search</value>
+      <webElementGuid>2b2ff878-ca9d-4cf8-8a4f-a1ddc8c973ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by form name</value>
+      <webElementGuid>d0caad8a-0cd2-45fa-bb52-89adf5b2d359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[4]/div[@class=&quot;renderer-MuiDialogContent-root mirata-modal-card&quot;]/div[@class=&quot;new-submission-layout&quot;]/div[@class=&quot;new-submission-header&quot;]/div[@class=&quot;new-submission-search-bar&quot;]/input[@class=&quot;new-submission-search&quot;]</value>
+      <webElementGuid>2f511803-cdbb-42b9-aca5-36b0f1d978cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='submission-search']</value>
+      <webElementGuid>860e291b-f4aa-448a-aec7-53fed8a2c5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>df2d0e1c-1072-41ad-b39d-8df60b67294d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'submission-search' and @placeholder = 'Search by form name']</value>
+      <webElementGuid>7f6c1c7c-8f30-4e12-b25d-7aa05817cb3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

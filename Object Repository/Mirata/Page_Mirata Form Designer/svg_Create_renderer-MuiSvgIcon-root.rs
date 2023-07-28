@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Create_renderer-MuiSvgIcon-root</name>
+   <tag></tag>
+   <elementGuidId>15368d61-08d3-4ce2-b66f-895731f12e0c</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.hp-create-widget-arrow > svg.renderer-MuiSvgIcon-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a1932cba-2ddf-490a-853b-a3e8428a278c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>renderer-MuiSvgIcon-root</value>
+      <webElementGuid>3ec3c904-e4ae-4885-b2a0-0433e8ea49b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>dfe11725-68ba-49ac-ac9c-c0066a5dc416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>a6f454da-47dd-4712-b918-b206d82ed137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>07d39be0-d0cc-4006-9579-92466dca3940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/amplify-authenticator[@class=&quot;hydrated&quot;]/div[@class=&quot;l-designer-wrapper&quot;]/div[@class=&quot;l-home-grid&quot;]/div[@class=&quot;home-page&quot;]/div[@class=&quot;home-page-grid-container&quot;]/div[@class=&quot;home-page-grid&quot;]/div[@class=&quot;hp-content&quot;]/div[@class=&quot;hp-section&quot;]/div[@class=&quot;hp-section-header hp-second-section-header&quot;]/button[@class=&quot;hp-create-widget&quot;]/div[@class=&quot;hp-create-widget-arrow&quot;]/svg[@class=&quot;renderer-MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>1b92da99-e385-4adf-ab52-a14f54f0b9b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d0d62ad4-af8e-48f0-9411-65e54c6d3c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Templates'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ae6d570e-4ece-47cd-95b9-51a2b92336a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>580ae07f-c66b-438a-9a51-4a220007c392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modified'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>74254e09-b01e-4ad8-8368-04668fc27a4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

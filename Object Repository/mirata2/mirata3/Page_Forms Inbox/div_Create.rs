@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create</name>
+   <tag></tag>
+   <elementGuidId>ca7c730d-fd7d-4142-902d-da7f7e1b2ee1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.open-project-submission-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='+ Create']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>854cef42-039e-4511-a1ad-f66e0fa1891d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>open-project-submission-button</value>
+      <webElementGuid>c9288648-fe04-4a24-b61e-8c86c6e27739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Create</value>
+      <webElementGuid>95a9cee8-99a7-409d-8b8f-d453aff35f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[4]/div[@class=&quot;renderer-MuiDialogContent-root mirata-modal-card&quot;]/div[@class=&quot;new-submission-layout&quot;]/div[@class=&quot;new-submission-scroller&quot;]/div[@class=&quot;new-submission-list-grid&quot;]/button[@class=&quot;project-submission&quot;]/div[@class=&quot;project-submission-actions&quot;]/div[@class=&quot;open-project-submission-button&quot;]</value>
+      <webElementGuid>bea4e580-d153-4fe4-bba3-938ccfd5f09d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy of aTL_construction water leak report'])[1]/following::div[2]</value>
+      <webElementGuid>58517684-59e7-4c94-879f-78bac38f7caf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starting a New Form'])[1]/following::div[8]</value>
+      <webElementGuid>98835b9b-bb4f-4c8d-b387-764e4b7eca65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Create']/parent::*</value>
+      <webElementGuid>d1d9cd64-330e-4b6e-96c3-67180ad78a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[3]/div</value>
+      <webElementGuid>a8511df8-d5d7-440b-9561-4c7f87ca7c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+ Create' or . = '+ Create')]</value>
+      <webElementGuid>edeb68a4-1cbe-444e-b338-679d53a7d324</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

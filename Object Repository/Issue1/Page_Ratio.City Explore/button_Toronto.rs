@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Toronto</name>
+   <tag></tag>
+   <elementGuidId>b8eb4bdf-9c7b-4a68-bc64-a2f25a4348c8</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.city-button.mat-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-sidenav-container[@id='app-area']/mat-sidenav/div/div/div[2]/ratio-layer-explorer/ratio-my-cities/button[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e5e0ce81-2822-4b5e-bf6e-9486096f8446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator city-button mat-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>48c7bf8b-65f4-4ff4-a3a4-418927b23e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Toronto
+</value>
+      <webElementGuid>e557cfef-8aec-4871-a304-be4808ff5238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-area&quot;)/mat-sidenav[@class=&quot;mat-drawer mat-sidenav main-sidebar ng-tns-c186-4 ng-trigger ng-trigger-transform mat-drawer-side mat-drawer-opened ng-star-inserted&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c186-4&quot;]/div[@class=&quot;ng-tns-c186-4&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ratio-layer-explorer[@class=&quot;ng-star-inserted&quot;]/ratio-my-cities[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator city-button mat-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>221ea2c2-40c7-4c08-8f83-eaad25b6e3e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-sidenav-container[@id='app-area']/mat-sidenav/div/div/div[2]/ratio-layer-explorer/ratio-my-cities/button[10]</value>
+      <webElementGuid>749019d2-c6a6-4e72-9d3a-64d992068c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Richmond Hill'])[1]/following::button[1]</value>
+      <webElementGuid>9fce3b7c-2f2b-45a6-89fd-23c070eb9f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pickering'])[1]/following::button[2]</value>
+      <webElementGuid>03013778-6ea1-4d74-99fc-a667877e4622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vaughan'])[1]/preceding::button[1]</value>
+      <webElementGuid>5756cb25-1e1b-4354-bd1f-ce068e83929f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[10]</value>
+      <webElementGuid>762fab4b-d004-4735-ad87-7b48e777a817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Toronto
+' or . = ' Toronto
+')]</value>
+      <webElementGuid>b8fd0dc8-e939-40c3-b0a1-2b24eef70f74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

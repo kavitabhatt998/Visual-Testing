@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No, thanks</name>
+   <tag></tag>
+   <elementGuidId>441dbd96-34df-4bba-a878-e6bf0f007d58</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.secondary-button.mat-flat-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/restore-user-data-choice-dialog/div/mat-dialog-actions/div/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>767c85af-b958-4d0e-b5fa-49df91c9d67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>0c28200b-864b-4dc6-a595-eb5f5dc157e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> No, thanks</value>
+      <webElementGuid>768ef5a0-6ee3-4728-ac85-8b8a45549bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/restore-user-data-choice-dialog[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dialog-wrapper&quot;]/mat-dialog-actions[@class=&quot;mat-dialog-actions mat-dialog-actions-align-end&quot;]/div[@class=&quot;dialog-actions-wrapper&quot;]/div[1]/button[@class=&quot;mat-focus-indicator secondary-button mat-flat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>b307d528-6bd9-42b9-aa31-719b3281d0ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/restore-user-data-choice-dialog/div/mat-dialog-actions/div/div/button[2]/span</value>
+      <webElementGuid>ce24660c-abb5-4834-a600-cc7f028d300a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, restore view'])[1]/following::span[3]</value>
+      <webElementGuid>642e1975-45b0-426e-a876-049d0cc8f486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No, thanks']/parent::*</value>
+      <webElementGuid>a4a0924f-ad45-4623-85e4-19b21f2d29e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>11b91808-9171-4dc7-a1a7-8fc6a8ed9ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' No, thanks' or . = ' No, thanks')]</value>
+      <webElementGuid>f550c5b4-dbf1-4744-a7b0-32fcd63a0fac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

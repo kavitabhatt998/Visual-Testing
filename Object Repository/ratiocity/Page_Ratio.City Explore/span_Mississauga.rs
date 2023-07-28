@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mississauga</name>
+   <tag></tag>
+   <elementGuidId>8f21b8b8-d41f-4830-a410-77dbd88ed918</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.city-button.mat-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>66ec82a8-712d-443d-be4e-bfb246992438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>cc1cc7b5-6c35-4ac0-a56c-888e716f165d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Mississauga
+</value>
+      <webElementGuid>8ece2401-43f0-43d7-9184-0582251eba7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-area&quot;)/mat-sidenav[@class=&quot;mat-drawer mat-sidenav main-sidebar ng-tns-c186-4 ng-trigger ng-trigger-transform mat-drawer-side mat-drawer-opened ng-star-inserted&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c186-4&quot;]/div[@class=&quot;ng-tns-c186-4&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ratio-layer-explorer[@class=&quot;ng-star-inserted&quot;]/ratio-my-cities[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator city-button mat-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>31387d88-4e17-4ab9-956c-916dae8d807d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-sidenav-container[@id='app-area']/mat-sidenav/div/div/div[2]/ratio-layer-explorer/ratio-my-cities/button[6]/span</value>
+      <webElementGuid>56f1d592-13ac-4589-b7c2-be195b7f1018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Markham'])[1]/following::span[3]</value>
+      <webElementGuid>7266a687-2ad0-4f3c-9bb7-0600f4568526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kitchener'])[1]/following::span[6]</value>
+      <webElementGuid>37276ce2-d3e8-4313-bd5d-7802c70ab601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oshawa'])[1]/preceding::span[3]</value>
+      <webElementGuid>be773d66-b155-4f6a-a4ea-9a0df900d2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pickering'])[1]/preceding::span[6]</value>
+      <webElementGuid>e7f4de88-6b1e-4c3d-8733-3be3276ae589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mississauga']/parent::*</value>
+      <webElementGuid>627c6a52-6553-4fd0-9711-41f7bdd5bd93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]/span</value>
+      <webElementGuid>5471ea00-a18b-446f-b86f-c80cd9ca1796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Mississauga
+' or . = ' Mississauga
+')]</value>
+      <webElementGuid>e5515db4-3a9d-49bb-a2b0-393d64a61324</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

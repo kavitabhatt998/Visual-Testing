@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_RID_12345_e-btn-icon fas fa-trash</name>
+   <tag></tag>
+   <elementGuidId>a1e0271c-7a83-4dc1-b8d7-b7fb79be1150</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.e-btn-icon.fas.fa-trash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='grid_474636511_0Delete_0_gridcommand6']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f46b2a9-5ef1-4825-a319-82c23bd610fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-btn-icon fas fa-trash</value>
+      <webElementGuid>cad323d7-9941-453c-bfbd-6f88f084d435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid_474636511_0Delete_0_gridcommand6&quot;)/span[@class=&quot;e-btn-icon fas fa-trash&quot;]</value>
+      <webElementGuid>94798c2e-ba17-4b68-b311-95cf99a427fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='grid_474636511_0Delete_0_gridcommand6']/span</value>
+      <webElementGuid>85933f0c-fd05-4a00-a4eb-9e3dcdf0ff71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>4b93b52b-dc80-44b9-9a19-5e6499a05dd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

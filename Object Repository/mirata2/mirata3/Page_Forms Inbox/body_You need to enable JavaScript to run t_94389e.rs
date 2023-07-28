@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_94389e</name>
+   <tag></tag>
+   <elementGuidId>514376da-ab60-40c6-bbfb-25ffd8c83a88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;mui-component-select-dropdown&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>2ce4705d-235f-4a4f-8dda-a32ef92ca4ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.Mirata Forms InboxClick to Sign In© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023InboxAnalyticsKavita BhattRefresh FormsDisplayFiltersApply filters to the forms in your current form listDate by Last UpdateClearApplyLast 7 daysLast 30 daysLast 90 daysCurrent monthLast monthDefinitionA_List_SigForm TypeTerri typeStatuscreatedAssigned UsersKavita BhattSubmitted byKavita BhattAssigned byKavita BhattForm ListsA_List_Sigcreated06/15There is no form active, please click on one from your inbox to open it here.Creating Form...AssignStartHoldCompleteDrafting ApproveCorrosion ApproveEngineering Approve© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023 Logoutid(&quot;menu-dropdown&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]Please Assign FormAssign To​CancelOKVirginia DemoAnn DemoFrank Talluto</value>
+      <webElementGuid>b8eb9838-3dad-413c-b838-4b6cd107910b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]</value>
+      <webElementGuid>a1aa23ba-4037-4080-8eeb-fa61987bec77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>aac4e0df-5922-4e26-bf1b-d74ca6d4ad12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.Mirata Forms InboxClick to Sign In© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023InboxAnalyticsKavita BhattRefresh FormsDisplayFiltersApply filters to the forms in your current form listDate by Last UpdateClearApplyLast 7 daysLast 30 daysLast 90 daysCurrent monthLast monthDefinitionA_List_SigForm TypeTerri typeStatuscreatedAssigned UsersKavita BhattSubmitted byKavita BhattAssigned byKavita BhattForm ListsA_List_Sigcreated06/15There is no form active, please click on one from your inbox to open it here.Creating Form...AssignStartHoldCompleteDrafting ApproveCorrosion ApproveEngineering Approve© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023 Logoutid(&quot;menu-dropdown&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]Please Assign FormAssign To​CancelOKVirginia DemoAnn DemoFrank Talluto' or . = 'You need to enable JavaScript to run this app.Mirata Forms InboxClick to Sign In© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023InboxAnalyticsKavita BhattRefresh FormsDisplayFiltersApply filters to the forms in your current form listDate by Last UpdateClearApplyLast 7 daysLast 30 daysLast 90 daysCurrent monthLast monthDefinitionA_List_SigForm TypeTerri typeStatuscreatedAssigned UsersKavita BhattSubmitted byKavita BhattAssigned byKavita BhattForm ListsA_List_Sigcreated06/15There is no form active, please click on one from your inbox to open it here.Creating Form...AssignStartHoldCompleteDrafting ApproveCorrosion ApproveEngineering Approve© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023 Logoutid(&quot;menu-dropdown&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]/li[@class=&quot;MuiButtonBase-root renderer-MuiListItem-root renderer-MuiMenuItem-root renderer-MuiMenuItem-gutters renderer-MuiListItem-gutters renderer-MuiListItem-button&quot;]Please Assign FormAssign To​CancelOKVirginia DemoAnn DemoFrank Talluto')]</value>
+      <webElementGuid>4cce04e5-eb1a-4c6e-b9b7-d8f347126c06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

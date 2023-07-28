@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SavedRegion saved</name>
+   <tag></tag>
+   <elementGuidId>513fde3d-1fc3-4dec-aa02-676184bda9ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-toast-message-content.ng-tns-c141-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layoutSidenav_content']/main/app-region/p-toast/div/p-toastitem/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9899933-2b1f-44f9-a2ac-67cb537757aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>55d5f337-3fcb-4277-ab15-f1aa63a292fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>assertive</value>
+      <webElementGuid>e738a534-4974-4942-af92-53e53abfa221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-atomic</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4300093b-af51-4cdb-afc3-9a6093328bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-toast-message-content ng-tns-c141-6</value>
+      <webElementGuid>c12e6e2a-5c28-40a2-bb45-624344747449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SavedRegion saved</value>
+      <webElementGuid>5701f761-3836-4d43-acaf-e0343afce135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layoutSidenav_content&quot;)/main[@class=&quot;h-100&quot;]/app-region[@class=&quot;ng-star-inserted&quot;]/p-toast[@class=&quot;p-element ng-tns-c142-5 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c142-5 p-toast p-component p-toast-bottom-right&quot;]/p-toastitem[@class=&quot;p-element ng-tns-c141-6 ng-trigger ng-trigger-toastAnimation ng-tns-c142-5 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-6 ng-trigger ng-trigger-messageState p-toast-message-success p-toast-message&quot;]/div[@class=&quot;p-toast-message-content ng-tns-c141-6&quot;]</value>
+      <webElementGuid>1a8b677a-0db6-44c0-b5e9-8b46d9f21584</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layoutSidenav_content']/main/app-region/p-toast/div/p-toastitem/div/div</value>
+      <webElementGuid>ac1ca0ed-6c71-4937-92ba-be55afc9bbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items per page'])[1]/following::div[3]</value>
+      <webElementGuid>3a2ba3f4-3c7f-4e40-83d3-37bc5bf1c7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(18 items)'])[1]/following::div[8]</value>
+      <webElementGuid>d8ea0c2f-828c-4a70-832b-d57b903212bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-toastitem/div/div</value>
+      <webElementGuid>b7c9536b-7e15-4dbd-a64f-359331c32b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SavedRegion saved' or . = 'SavedRegion saved')]</value>
+      <webElementGuid>608d6681-0799-4aee-881c-a9d3fce66e68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

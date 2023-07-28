@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_d9dfe5</name>
+   <tag></tag>
+   <elementGuidId>bd38abd5-ff4f-4da8-b179-f33302e60584</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>edb292ba-83bc-4511-87f6-6e8deeb6d79d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023Kavita BhattMirata DesignerOpen RecentDemo1Mon Jun 05 2023DemoMon Jun 05 20231A_Horses_MiniTue May 23 20231_HorsesWed Apr 19 20231MiniMon Apr 10 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1_HorsesWed Apr 19 202371A_Horses_MiniTue May 23 202361GetGoodCookiesTue Mar 14 202331MiniMon Apr 10 20231A_List_SigTue Mar 21 20237DemoMon Jun 05 20231Demo1Mon Jun 05 20231TL Test Email 012Tue Mar 14 20231© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023id(&quot;menu-&quot;)/div[1]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.terri-ype</value>
+      <webElementGuid>6c8b68e6-5fda-4c8f-80c1-410eafe169f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]</value>
+      <webElementGuid>e5f208bd-a41a-4b4c-928b-0199e27daac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>652dd656-e120-441a-b507-0496e04ebf1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023Kavita BhattMirata DesignerOpen RecentDemo1Mon Jun 05 2023DemoMon Jun 05 20231A_Horses_MiniTue May 23 20231_HorsesWed Apr 19 20231MiniMon Apr 10 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1_HorsesWed Apr 19 202371A_Horses_MiniTue May 23 202361GetGoodCookiesTue Mar 14 202331MiniMon Apr 10 20231A_List_SigTue Mar 21 20237DemoMon Jun 05 20231Demo1Mon Jun 05 20231TL Test Email 012Tue Mar 14 20231© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023id(&quot;menu-&quot;)/div[1]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.terri-ype' or . = 'You need to enable JavaScript to run this app.Mirata Forms DesignerClick to Sign In© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023Kavita BhattMirata DesignerOpen RecentDemo1Mon Jun 05 2023DemoMon Jun 05 20231A_Horses_MiniTue May 23 20231_HorsesWed Apr 19 20231MiniMon Apr 10 2023FormsWorkflowsTemplatesCreateNameModifiedUpdated byVersion1_HorsesWed Apr 19 202371A_Horses_MiniTue May 23 202361GetGoodCookiesTue Mar 14 202331MiniMon Apr 10 20231A_List_SigTue Mar 21 20237DemoMon Jun 05 20231Demo1Mon Jun 05 20231TL Test Email 012Tue Mar 14 20231© Mirata Software LLC | 2023qa | 2.0.27 (9837) | 23-May-2023id(&quot;menu-&quot;)/div[1]FormTemplateNew FormBlankFrom ExistingType *​Name *DescriptionID *Workflow ID *CancelOKacme-id.form-type.terri-ype')]</value>
+      <webElementGuid>48e0221e-69a5-4006-9009-24383080939e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

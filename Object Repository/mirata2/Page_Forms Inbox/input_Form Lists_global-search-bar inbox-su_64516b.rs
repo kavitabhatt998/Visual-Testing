@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Form Lists_global-search-bar inbox-su_64516b</name>
+   <tag></tag>
+   <elementGuidId>29d625d5-a8f1-4892-9eba-20d89f5c7aa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.global-search-bar.inbox-submissions-list-global-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2074dd2f-f25f-4d80-84f9-9c72e12462ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>global-search-bar inbox-submissions-list-global-search</value>
+      <webElementGuid>db875ed1-d1a2-4032-b9e5-46c0354811d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search inbox</value>
+      <webElementGuid>e721a89c-fabc-435a-875b-c02ae6426381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inbox-splitter-container&quot;)/div[@class=&quot;splitter-layout&quot;]/div[@class=&quot;layout-pane&quot;]/div[@class=&quot;inbox-content box&quot;]/div[@class=&quot;inbox-header&quot;]/div[@class=&quot;global-search-container&quot;]/input[@class=&quot;global-search-bar inbox-submissions-list-global-search&quot;]</value>
+      <webElementGuid>534e8d8e-e6c1-42b6-9f4c-37e73ae89ded</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+      <webElementGuid>1047fc9d-b21e-4e67-bd31-b8e441995093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inbox-splitter-container']/div/div/div/div/div/input</value>
+      <webElementGuid>5338bf63-d0ae-4926-ba5f-ce40191856d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/input</value>
+      <webElementGuid>1fb0e47d-7e8d-4131-aa6f-0e4779f96749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search inbox']</value>
+      <webElementGuid>d1af38bc-d58b-457a-aea6-12052b9307cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

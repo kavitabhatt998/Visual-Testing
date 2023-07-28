@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_94389e</name>
+   <tag></tag>
+   <elementGuidId>981274fc-8144-49c2-8985-f66eca3d37b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>feafd786-d46c-40c9-9124-3407915dc8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.Mirata Forms InboxClick to Sign In© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023InboxAnalyticsKavita BhattRefresh FormsDisplayFiltersApply filters to the forms in your current form listDate by Last UpdateClearApplyLast 7 daysLast 30 daysLast 90 daysCurrent monthLast monthForm ListsThere are no forms in your inboxThere is no form active, please click on one from your inbox to open it here.Creating Form...AssignStartHoldCompleteDrafting ApproveCorrosion ApproveEngineering Approve© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023 Logoutid(&quot;menu-dropdown&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]Please Assign FormAssign To​CancelOKNo items</value>
+      <webElementGuid>17c43037-fdf3-4594-884e-67a3a5e954d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]</value>
+      <webElementGuid>8b7165c0-c905-49b2-9ee9-0c94f563899b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>3af6c71a-0ee2-4c73-9fd4-8dcaf083f4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.Mirata Forms InboxClick to Sign In© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023InboxAnalyticsKavita BhattRefresh FormsDisplayFiltersApply filters to the forms in your current form listDate by Last UpdateClearApplyLast 7 daysLast 30 daysLast 90 daysCurrent monthLast monthForm ListsThere are no forms in your inboxThere is no form active, please click on one from your inbox to open it here.Creating Form...AssignStartHoldCompleteDrafting ApproveCorrosion ApproveEngineering Approve© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023 Logoutid(&quot;menu-dropdown&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]Please Assign FormAssign To​CancelOKNo items' or . = 'You need to enable JavaScript to run this app.Mirata Forms InboxClick to Sign In© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023InboxAnalyticsKavita BhattRefresh FormsDisplayFiltersApply filters to the forms in your current form listDate by Last UpdateClearApplyLast 7 daysLast 30 daysLast 90 daysCurrent monthLast monthForm ListsThere are no forms in your inboxThere is no form active, please click on one from your inbox to open it here.Creating Form...AssignStartHoldCompleteDrafting ApproveCorrosion ApproveEngineering Approve© Mirata Software LLC | 2023qa | 2.0.23 (6062) | 10-June-2023 Logoutid(&quot;menu-dropdown&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]Please Assign FormAssign To​CancelOKNo items')]</value>
+      <webElementGuid>8c37629f-8007-4ab8-a835-42f84ed51bc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

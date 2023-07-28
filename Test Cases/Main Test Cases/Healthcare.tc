@@ -5,4 +5,26 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a3ead5ea-5e13-4237-93ae-eb18ed066907</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>97632332-f4d5-4086-a83b-bbf0ec9e2533</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>SCRIPT_VARIABLE</type>
+      <value>null</value>
+      <variableId>417d6f68-64f6-4d37-9655-f59931bb4617</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'new\n'</defaultValue>
+      <description></description>
+      <id>417d6f68-64f6-4d37-9655-f59931bb4617</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
 </TestCaseEntity>

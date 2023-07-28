@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create</name>
+   <tag></tag>
+   <elementGuidId>8deb4ca8-5aba-4fd8-bb0e-06dafcc916af</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = '+ Create' or . = '+ Create')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1065ab4f-c2b1-4257-8b1c-b20b6a404200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>open-project-submission-button</value>
+      <webElementGuid>f2426d89-5fab-408a-bf97-e0afcddb488f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Create</value>
+      <webElementGuid>85435822-0f89-4d90-a258-1698eec4fed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[4]/div[@class=&quot;renderer-MuiDialogContent-root mirata-modal-card&quot;]/div[@class=&quot;new-submission-layout&quot;]/div[@class=&quot;new-submission-scroller&quot;]/div[@class=&quot;new-submission-list-grid&quot;]/button[@class=&quot;project-submission&quot;]/div[@class=&quot;project-submission-actions&quot;]/div[@class=&quot;open-project-submission-button&quot;]</value>
+      <webElementGuid>bf684660-fa5c-4891-9308-96fb4d1b3000</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy of aTL_construction water leak report'])[1]/following::div[2]</value>
+      <webElementGuid>263f030c-486a-4bd9-bb15-309b07b7662e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Create'])[5]/following::div[4]</value>
+      <webElementGuid>8bc4b539-b576-4023-bf7e-cd9f0bad4127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pole Inspection/Test Report'])[1]/preceding::div[2]</value>
+      <webElementGuid>1d3edd9b-5de7-4692-952f-5cb0356ec075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Create'])[7]/preceding::div[3]</value>
+      <webElementGuid>ad653246-68a3-4c08-8d0c-096f912457ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]/div[3]/div</value>
+      <webElementGuid>12fe6148-1885-4e07-a17e-afabf2a43fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+ Create' or . = '+ Create')]</value>
+      <webElementGuid>eaf8112a-e4ba-4b9a-94c7-ac0e872fcdbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_No items</name>
+   <tag></tag>
+   <elementGuidId>974797a0-99c7-4c06-8810-66d161796612</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-dropdown']/div[3]/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-dropdown > div.renderer-MuiPaper-root.renderer-MuiMenu-paper.renderer-MuiPopover-paper.renderer-MuiPaper-elevation8.renderer-MuiPaper-rounded > ul.renderer-MuiList-root.renderer-MuiMenu-list.renderer-MuiList-padding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>b3e8196a-bd71-4dfb-a8b6-12bc578ca27c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding</value>
+      <webElementGuid>e250decf-6ad0-4bd8-b104-88e71295e8c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>5d4bb44a-2579-4362-974f-2c579dcdd92b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b124cc89-febe-4ad4-bc37-bc7d9ccb66b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No items</value>
+      <webElementGuid>e06983b6-45ca-4e4f-9a98-767deea3d185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-dropdown&quot;)/div[@class=&quot;renderer-MuiPaper-root renderer-MuiMenu-paper renderer-MuiPopover-paper renderer-MuiPaper-elevation8 renderer-MuiPaper-rounded&quot;]/ul[@class=&quot;renderer-MuiList-root renderer-MuiMenu-list renderer-MuiList-padding&quot;]</value>
+      <webElementGuid>0a22b451-7862-4f79-bff1-94d2fff7e4f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-dropdown']/div[3]/ul</value>
+      <webElementGuid>b16fcb8e-98fb-4f06-b72c-bdfa2b1bb6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::ul[1]</value>
+      <webElementGuid>763fb452-c5cf-4e3e-a4c3-615a32f2a358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::ul[1]</value>
+      <webElementGuid>c2f902a2-5793-4923-83c6-916eed52d8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul</value>
+      <webElementGuid>81ed9324-77cb-44a9-a7b1-83e832df4ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'No items' or . = 'No items')]</value>
+      <webElementGuid>6fa6c4d3-9fac-4884-b1da-9dcd357eaf72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

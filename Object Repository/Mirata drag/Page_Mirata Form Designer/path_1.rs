@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>6b34e034-d6e2-463d-9ff2-431870b6b4ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/amplify-authenticator/div[2]/div/div[4]/div/div/div/div[2]/div[5]/button/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>ec0b99ca-421c-456a-b4c0-6324ee6e0c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z</value>
+      <webElementGuid>152798c1-ab9a-4aea-9fb7-691c18d93deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/amplify-authenticator[@class=&quot;hydrated&quot;]/div[@class=&quot;l-designer-wrapper&quot;]/div[@class=&quot;l-designer-grid&quot;]/div[@class=&quot;l-designer-panel-content left-dpc&quot;]/div[@class=&quot;c-panel-content&quot;]/div[1]/div[@class=&quot;control-selector-panel&quot;]/div[@class=&quot;control-selector-sections&quot;]/div[@class=&quot;a-controls-section&quot;]/button[@class=&quot;a-controls-section-header&quot;]/div[2]/div[@class=&quot;a-controls-section-toggle&quot;]/svg[@class=&quot;renderer-MuiSvgIcon-root&quot;]/path[1]</value>
+      <webElementGuid>ec81d842-8951-44b8-a8d1-b09f61f09b64</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Trinidad Health_ng-arrow-wrapper</name>
+   <tag></tag>
+   <elementGuidId>697d4872-340a-47c9-b912-e405dfd02cb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-arrow-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layoutAuthentication_content']/main/div/div/div/div[2]/div[2]/form/div/div[2]/ng-select/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>086230a0-3419-4806-96aa-52c2d6fd1adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-arrow-wrapper</value>
+      <webElementGuid>6257f2e0-080b-49c5-aa40-93c401afe217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layoutAuthentication_content&quot;)/main[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center ng-tns-c197-2&quot;]/div[@class=&quot;col-xl-6 col-lg-10 col-sm-12 ng-tns-c197-2&quot;]/div[@class=&quot;card shadow-lg border-0 rounded-lg mt-5 ml-auto mr-auto ng-tns-c197-2&quot;]/div[@class=&quot;card-body ng-tns-c197-2 block-ui__element ng-star-inserted&quot;]/form[@class=&quot;ng-tns-c197-2 ng-star-inserted ng-dirty ng-touched ng-valid ng-submitted&quot;]/div[@class=&quot;ng-tns-c197-2 ng-star-inserted&quot;]/div[@class=&quot;form-group ng-tns-c197-2&quot;]/ng-select[@class=&quot;ng-tns-c197-2 ng-select ng-select-single ng-select-clearable ng-untouched ng-pristine ng-valid ng-select-focused ng-select-opened ng-select-bottom&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
+      <webElementGuid>dcc668a5-a833-4db9-8a58-b77b3e6fd0c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layoutAuthentication_content']/main/div/div/div/div[2]/div[2]/form/div/div[2]/ng-select/div/span[2]</value>
+      <webElementGuid>dd08570d-d707-4cff-9278-4b493ce27c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trinidad Health'])[1]/following::span[3]</value>
+      <webElementGuid>08256a87-a8bb-4c6b-bcf7-c3d266bab89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::span[5]</value>
+      <webElementGuid>abf9df70-55dc-4648-91c0-d3aa5d54d9b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trinidad Health'])[2]/preceding::span[2]</value>
+      <webElementGuid>b9d14fb9-5c1b-4271-a415-0de604eb34b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HM'])[1]/preceding::span[3]</value>
+      <webElementGuid>d4f532c7-6e89-4089-b79d-863d5ad287d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>24253d1a-86f2-40ec-a35e-82ae33b7074f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

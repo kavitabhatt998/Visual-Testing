@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Common Test Cases/Login'), [('Username') : 'John Doe', ('Password') : 'ThisIsNotAPassword'], 
+    FailureHandling.STOP_ON_FAILURE)
+
 Mobile.startApplication('/Users/kavitabhatt/Downloads/ApiDemos-debug.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/android.widget.Button - OK'), 0)

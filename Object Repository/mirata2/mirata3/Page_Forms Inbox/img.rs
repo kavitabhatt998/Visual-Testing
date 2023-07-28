@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>09081ee4-bf47-40e1-8d16-d58e686140e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='side-panel-div']/div[2]/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Create a Form&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b58c8797-88e6-4934-a823-79783d159749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Create a Form</value>
+      <webElementGuid>cb4f7dbf-f8a1-479b-9d80-6974260a64d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://qa.mirataforms.com/qa-feb2023/inbox/assets/create-form-asset.svg</value>
+      <webElementGuid>fd97856e-ee19-435e-987c-544b8d6da2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-panel-div&quot;)/div[@class=&quot;extender-scroller&quot;]/div[@class=&quot;extender-scroller-topline&quot;]/div[@class=&quot;sidebar-create-button-asset-container&quot;]/button[@class=&quot;create-asset&quot;]/img[1]</value>
+      <webElementGuid>564f065c-22c8-4ab6-b355-6ab98c389745</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='side-panel-div']/div[2]/div/div/button/img</value>
+      <webElementGuid>11111011-96de-40a3-843a-608e335bd2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Create a Form']</value>
+      <webElementGuid>dfedf904-27d8-4ae8-af4c-34d5dd636dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>3ed56e43-67a0-410f-8f5c-7d54a36624bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Create a Form' and @src = 'https://qa.mirataforms.com/qa-feb2023/inbox/assets/create-form-asset.svg']</value>
+      <webElementGuid>664ec335-7113-4b6a-9bf8-7e3dff58a152</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

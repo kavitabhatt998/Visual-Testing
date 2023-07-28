@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_grid_474636511_0_header_table_e-btn-ic_ff60e2</name>
+   <tag></tag>
+   <elementGuidId>6fc1ce8d-74a2-4761-a521-79b9d8c55c68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.e-btn-icon.fas.fa-save</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='grid_474636511_0Save_0_gridcommand7']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>efa0e130-b7f7-49fc-963b-3e8acd2c0b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-btn-icon fas fa-save</value>
+      <webElementGuid>c7cb8385-deaa-4120-9947-0db02f44b54a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid_474636511_0EditForm&quot;)/table[@class=&quot;e-table e-inline-edit&quot;]/tbody[1]/tr[1]/td[@class=&quot;e-rowcell e-unboundcell&quot;]/div[@class=&quot;e-unboundcelldiv&quot;]/button[@id=&quot;grid_474636511_0Save_0_gridcommand7&quot;]/span[@class=&quot;e-btn-icon fas fa-save&quot;]</value>
+      <webElementGuid>0f9dadca-ab2f-4a40-871a-0339246f40f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='grid_474636511_0Save_0_gridcommand7']/span</value>
+      <webElementGuid>fe0e29f9-65d6-4953-a25c-095d801202f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span</value>
+      <webElementGuid>6ba133c4-ef90-4f19-b4e7-3a26f4080bdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
